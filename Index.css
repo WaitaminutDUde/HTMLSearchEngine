@@ -1,0 +1,40 @@
+@font-face {
+    font-family: nos;
+    src: url(s/ProductSans-Regular.ttf);
+}
+
+
+
+.Google {
+    margin-bottom: 100px;
+    margin-left: 600px;
+}
+
+.Search {
+    bottom: 0;
+    box-sizing: border-box;
+    left: 0;
+    margin-top: 425px;
+    margin-left: 555px;
+    border-radius: 25px;
+    opacity: 1;
+    padding-inline-start: 20px;
+    position: absolute;
+    top: 0;
+    width: 25%;
+    height: 5%;
+}
+
+.Gmail {
+   margin-left: 1450px;
+}
+
+.rainbow-text {
+
+        font-size: 50px;
+        font-weight: bold;
+        font-family: nos;
+        margin-top: 300px;
+        margin-left: -70px;
+
+}
